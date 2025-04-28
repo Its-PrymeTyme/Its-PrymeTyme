@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Its-PrymeTyme
 - 👀 I’m interested in Cybersecurity
-- 🌱 I have a Certificate in Computer Science and currently working on my Bachelor's for Information Technology
+- 🌱 I have a Certificate in Computer Science
 - 📫 I am also a streamer on twitch -> www.twitch.tv/its_prymetyme
 
 <!---
